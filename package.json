@@ -1,0 +1,22 @@
+{
+  "name": "iecodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allen0lee/iecodetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allen0lee/iecodetest/issues"
+  },
+  "homepage": "https://github.com/allen0lee/iecodetest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
